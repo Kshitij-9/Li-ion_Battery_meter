@@ -1,6 +1,7 @@
 # Li-ion_Battery_meter
 
 Components required - 
+
 1.Arduino UNO
 
 2.LCD 16x2
