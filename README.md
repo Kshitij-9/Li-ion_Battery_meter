@@ -16,7 +16,6 @@ This project is only ment for 1s batteries having peak voltage of 4.2V and nomin
 For the logic and formula I refered to the chart provided here : https://blog.ampow.com/lipo-voltage-chart/
 I have provided this chart in this project in the form of excel sheet.
 
-Circuit diagram is to be done as per the file provided.
 For interfacing lcd with arduino LCD_PINS is provided for your reference.
 
 There are two programs gives,
