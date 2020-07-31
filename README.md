@@ -1,5 +1,7 @@
 # Li-ion_Battery_meter
 
+This project is used for displaying battery percentage and voltage.
+
 Components required - 
 
 1.Arduino UNO
